@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ24232HRGTR
+F https://www.ti.com/lit/ds/symlink/bq24232h.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1594467447338
+$ENDCMP
+#
 #End Doc Library
