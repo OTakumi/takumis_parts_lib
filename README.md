@@ -5,4 +5,4 @@
 | 2 | WS2118-00 | RF Transceiver Modules and Modems | Jorjin Technologies Inc. | [WS2118-00](https://media.digikey.com/pdf/Data%20Sheets/Jorjin%20Technologies%20Inc%20PDFs/WS2118-00A-DTS-R01-20190124.pdf) | WS2118-00 | WS2118-00 |
 | 3 | BQ24232HRGTR | PMIC - Battery Chargers | Texas Instruments | [BQ24232HRGTR](http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fbq24232h) | BQ24232HRGTR | RGT16_1P7X1P7_TEX |
 | 4 | ADXL345BCCZ | Motion Sensors - Accelerometers | Analog Devices Inc. | [ADXL345BCCZ](http://www.analog.com/media/jp/technical-documentation/data-sheets/ADXL345_jp.pdf) | ADXL345BCCZ | ADXL345BCCZ |
-| 5 | STM32L011F3P6TR | Embedded - Microcontrollers | STMicroelectronics | [STM32L011F3P6TR](https://www.st.com/resource/en/datasheet/stm32l011f3.pdf) | STM32L011F3P6TR_20pin | STM32L011F3P6TR |
+| 5 | STM32L011F3P6TR | Embedded - Microcontrollers | STMicroelectronics | [STM32L011F3P6TR](https://www.st.com/resource/en/datasheet/stm32l011f3.pdf) | STM32L011F3P6TR_20pin | STM32L011F3P6TR_20pin |
