@@ -1,4 +1,4 @@
-(module STM32L011F3P6TR (layer F.Cu) (tedit 0)
+(module STM32L011F3P6TR_20pin (layer F.Cu) (tedit 5FCE38FF)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
