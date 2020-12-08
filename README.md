@@ -7,3 +7,4 @@
 | 4 | ADXL345BCCZ | Motion Sensors - Accelerometers | Analog Devices Inc. | [ADXL345BCCZ](http://www.analog.com/media/jp/technical-documentation/data-sheets/ADXL345_jp.pdf) | ADXL345BCCZ | ADXL345BCCZ |
 | 5 | STM32L011F3P6TR | Embedded - Microcontrollers | STMicroelectronics | [STM32L011F3P6TR](https://www.st.com/resource/en/datasheet/stm32l011f3.pdf) | STM32L011F3P6TR_20pin | STM32L011F3P6TR_20pin |
 | 6 | PIC16F1823T-I/SL | Embedded - Microcontrollers | Microchip Technology | [PIC16F1823T-I/SL](http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en547368) | PIC16F1823T-I_SL_14pin | PIC16F1823T-I&slash_SL |
+| 7 | 219-4MSTR | DIP Switch | CTS Electrocomponents | [219-4MSTR](https://www.ctscorp.com/wp-content/uploads/219.pdf) | 219-4MSTR | 219-4MSTR |
