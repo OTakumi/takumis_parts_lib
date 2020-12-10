@@ -8,4 +8,12 @@ $CMP BQ24232HRGTR
 F https://www.ti.com/lit/ds/symlink/bq24232h.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1594467447338
 $ENDCMP
 #
+$CMP MIC5504-3.3YM5-TR
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC5501-02-03-04-300mA-Single-Output-LDO-in-Small-Packages-DS20006006B.pdf
+$ENDCMP
+#
+$CMP R1524x
+F https://www.n-redc.co.jp/en/ev_board/dl/r1524n050b-eev.pdf
+$ENDCMP
+#
 #End Doc Library
