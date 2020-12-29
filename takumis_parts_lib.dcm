@@ -16,4 +16,8 @@ $CMP R1524x
 F https://www.n-redc.co.jp/en/ev_board/dl/r1524n050b-eev.pdf
 $ENDCMP
 #
+$CMP STM32L432KBU6
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/24/01/9f/59/f0/83/47/fc/DM00257205.pdf/files/DM00257205.pdf/jcr:content/translations/en.DM00257205.pdf
+$ENDCMP
+#
 #End Doc Library
